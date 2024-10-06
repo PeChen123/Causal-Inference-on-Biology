@@ -1,0 +1,21 @@
+## Review Papers Worth Reading:
+
+1. A Survey on Causal Inference
+2. Causal Discovery from Temporal Data: An Overview and New Perspectives
+3. Towards Causal Representation Learning
+
+## Research Papers:
+
+1. Causal Discovery in the Temporal Domain from Interventional Data
+2. DYNOTEARS: Structure Learning from Time-Series Data
+3. Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems
+
+## Bioinformatics + Causal Papers:
+
+1. Causal Machine Learning for Single-Cell Genomics
+2. Causal Identification of Single-Cell Experimental Perturbation Effects with CINEMA-OT
+
+## Federated Learning + Causal Papers:
+
+1. Bayesian Federated Estimation of Causal Effects from Observational Data
+2. Towards Federated Bayesian Network Structure Learning with Continuous Optimization
